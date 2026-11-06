@@ -6,6 +6,7 @@ During initial reconnaissance and asset discovery, it is common to end up with d
 
 > **Authorized Use & Educational Purpose Only**  
 > This tool is developed strictly for authorized security assessments, defensive attack surface management, and educational research. You must have explicit permission from the asset owner before running active probes against any domain.
+<img width="1147" height="531" alt="Screenshot_107" src="https://github.com/user-attachments/assets/d850ebdc-adb4-4dfa-9c19-9a4083286f56" />
 
 ---
 
